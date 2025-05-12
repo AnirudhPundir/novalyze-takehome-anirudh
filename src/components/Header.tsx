@@ -33,7 +33,7 @@ export default function Header() {
           </a>
         </PopoverGroup>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          <a href="/login" className="text-sm/6 font-semibold text-secondary">
+          <a href="/NewLogin" className="text-sm/6 font-semibold text-secondary">
             Log in <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
